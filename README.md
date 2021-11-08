@@ -34,9 +34,9 @@ android $./native
 ```
 (on your PC) 
 * Open Dochizame.app (if on Mac) 
-* Select process 
-* Select module
-* Write function address 
+* Select process (native)
+* Select module (native)
+* Write function address (0x00000000000904)  
 * Intercept
 * Modify values in Editor 
 
