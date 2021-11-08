@@ -18,9 +18,29 @@ Below open source projects are used for dochizame working properly :
 * [xcode] - Apple's developer tool
 * [node.js] - Javascript runtime 
 
-# Compilation 
+# Build 
 
-Open Dochizame.app with Qt Creator on your Mac and Compile it
+Open project on Qt Creator and just compile it
+ 
+# How to run 
+(on Android )
+```bash
+$gcc -o native target/native.c 
+$adb put native /data/local/tmp/
+$adb shell
+android$ cd /data/local/tmp
+android$ chmod 755 native 
+android $./native 
+```
+(on your PC) 
+* Open Dochizame.app (if on Mac) 
+* Select process 
+* Select module
+* Write function address 
+* Intercept
+* Modify values in Editor 
+
+
 
 
 
