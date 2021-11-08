@@ -7,9 +7,9 @@ Dochizame is frida based GUI inspector suite for pentester
  - Modify values synchronusly with GUI editor 
  - Dynamically intercept and release 
 
-# Prequations 
+# Prerequisite 
 
-Dochizame uses a number of open sources projects for work properly : 
+Below open source projects are used for dochizame working properly : 
 
 * [frida] - Hooking tool 
 * [frida-qml] - Frida's Qt wrapper
@@ -18,8 +18,11 @@ Dochizame uses a number of open sources projects for work properly :
 * [xcode] - Apple's developer tool
 * [node.js] - Javascript runtime 
 
-# Installation 
+# Compilation 
 
-Open Dochizame.app on your Mac 
+Open Dochizame.app with Qt Creator on your Mac and Compile it
+
+
+
 
 
