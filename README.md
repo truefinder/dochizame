@@ -35,22 +35,23 @@ android $./native
 
 (on your PC) 
 * Open Dochizame.app (if on Mac) 
-* Select process (native) 
 
-![Screen Shot 2022-01-18 at 14 52 13](https://user-images.githubusercontent.com/4240789/149878895-9d547262-6bd6-4793-ba25-630dd84f7f7a.png)
+* Choose process (select device & process ) 
 
-* Select module (native)
+![Screen Shot 2022-01-18 at 14 52 13](https://user-images.githubusercontent.com/4240789/149881336-0479f93d-c133-4350-94c9-73b66c758c83.png)
 
-![Screen Shot 2022-01-18 at 14 52 40](https://user-images.githubusercontent.com/4240789/149878900-7a5a2622-252e-4c6f-894b-749aff997d58.png)
+* Choose module (select module & write function address) 
 
-* Write function address (0x00000000000904)  
+![Screen Shot 2022-01-18 at 14 52 40](https://user-images.githubusercontent.com/4240789/149881344-b5cfbfa3-03e3-488d-ade4-5f1e68bdfce6.png)
 
-![Screen Shot 2022-01-18 at 14 52 53](https://user-images.githubusercontent.com/4240789/149878907-5aa56ec9-2bf6-47b5-beeb-efe5d51251c1.png)
+* Modify values
 
-* Intercept
-* Modify values in Editor 
+![Screen Shot 2022-01-18 at 14 53 02](https://user-images.githubusercontent.com/4240789/149881348-f5d8a26d-45f2-434d-b105-0dd2dd53b880.png)
 
-![Screen Shot 2022-01-18 at 14 53 02](https://user-images.githubusercontent.com/4240789/149878915-78effea4-ab54-42a8-80b9-65ace62f4b3b.png)
+* Check result
+
+![Screen Shot 2022-01-18 at 14 52 53](https://user-images.githubusercontent.com/4240789/149881346-f9c4e6c1-336e-4982-8e3b-ccf56fa9a441.png)
+
 
 # Contacts 
 Seunghyun Seo 
